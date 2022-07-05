@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OstaninAndrey
 - 👀 I’m interested in iOS Dev
-- 🌱 I’m currently learning WebRTC, LiveSwitch and other technologies to use in my work
 - 📫 How to reach me - telegram: @ostaninandrey
 
 <!---
